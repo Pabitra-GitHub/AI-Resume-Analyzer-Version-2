@@ -1,0 +1,58 @@
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & Testing Cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.ruff_cache/
+.mypy_cache/
+
+# Environments & Virtualenvs
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets (CRITICAL SECURITY)
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.cert
+!.env.example
+
+# Excluded Personal Folders & Documents (Private / College Work)
+Personal Project/
+Personal Project/**
+[Pp]ersonal [Pp]roject/
+extracted_report_text.txt
+*.docx
+*.doc
+*.pptx
+*.ppt
+*.pdf
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Runtime / Generated Reports
+reports/
+*.log
+*.tmp
