@@ -184,9 +184,8 @@ AI Resume Analyzer Version 2/
 │   └── export_service.py       # Isolated text report generation & automated TTL file cleanup
 │
 ├── ui/                         # Presentation layer
-│   └── layout.py               # Gradio layout blocks, event handlers, theme toggler & API key modal
-│
-└── Personal Project/           # Project presentation & dissertation documentation (.docx, .pptx)
+   └── layout.py               # Gradio layout blocks, event handlers, theme toggler & API key modal
+
 ```
 
 ---
@@ -196,14 +195,6 @@ AI Resume Analyzer Version 2/
 | Detail | Information |
 | :--- | :--- |
 | **Project Author** | **Ch. Pabitra Kumar Nayak** |
-| **Registration Number** | **2301322088** |
-| **Degree** | **Bachelor of Technology (B.Tech)** |
-| **Department** | **Department of Computer Science & Engineering** |
-| **Semester & Batch** | **7th Semester \| Batch 2023 – 2027** |
-| **Institution** | **Einstein Academy of Technology and Management (EATM)** |
-| **Affiliation** | **Biju Patnaik University of Technology (BPUT), Odisha** |
-| **Project Supervisor / Guide** | **Prof. Yuktamukhi Sahoo** |
-| **Head of Department (HOD)** | **Prof. (Dr.) Dushmanta Kumar Padhi** |
 
 ---
 
